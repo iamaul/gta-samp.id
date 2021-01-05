@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "dgram-browserify": "0.0.13",
     "firebase": "^6.6.2",
     "react": "^16.12.0",
